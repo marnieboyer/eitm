@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Elliot in the Morning (DC101)</title>
+    <link>https://marnieboyer.github.io/eitm</link>
+    <description>Daily personal recordings of Elliot in the Morning on DC101, Washington DC.</description>
+    <language>en-us</language>
+    <itunes:author>Personal recording</itunes:author>
+    <lastBuildDate>Wed, 22 Jul 2026 00:44:50 +0000</lastBuildDate>
+  </channel>
+</rss>
