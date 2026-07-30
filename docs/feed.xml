@@ -6,7 +6,13 @@
     <description>Daily personal recordings of Elliot in the Morning on DC101, Washington DC.</description>
     <language>en-us</language>
     <itunes:author>Personal recording</itunes:author>
-    <lastBuildDate>Wed, 29 Jul 2026 18:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:14:51 +0000</lastBuildDate>
+    <item>
+      <title>DC101 ElliotInTheMorning 2026-07-30</title>
+      <pubDate>Thu, 30 Jul 2026 18:14:51 +0000</pubDate>
+      <enclosure url="https://marnieboyer.github.io/eitm/audio/DC101_ElliotInTheMorning_2026-07-30.mp3" length="79200333" type="audio/mpeg" />
+      <guid isPermaLink="false">DC101_ElliotInTheMorning_2026-07-30.mp3</guid>
+    </item>
     <item>
       <title>DC101 ElliotInTheMorning 2026-07-29</title>
       <pubDate>Wed, 29 Jul 2026 18:14:45 +0000</pubDate>
